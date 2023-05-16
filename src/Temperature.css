@@ -1,0 +1,27 @@
+.mainDiv {
+  height: 20rem;
+  width: 25rem;
+  background-color: aqua;
+  border: 1px solid;
+}
+h1 {
+  margin-left: 0.9rem;
+}
+.temp {
+  height: 10rem;
+  width: 10rem;
+  border: 1px solid;
+  border-radius: 50%;
+  margin-left: 5rem;
+}
+p {
+  margin-top: 4rem;
+  margin-left: 3rem;
+}
+
+.button {
+  width: 5rem;
+  margin-left: 8.7rem;
+  gap: 1rem;
+  display: flex;
+}
